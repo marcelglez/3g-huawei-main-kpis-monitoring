@@ -1,0 +1,16 @@
+{
+  "input_dir": "Data input",
+  "output_dir": "Output",
+  "site_column": "Site",
+  "date_column": "Date",
+  "kpis": {
+    "Availability": "3G Availability (Group)",
+    "CS CSSR": "GRP_3G Call Setup Success Rate (CS)(%)",
+    "PS CSSR": "Grp_3G Call Setup Success Rate(PS)%",
+    "CS DCR": "Grp_3G Drop Call Rate (CS)%_Update",
+    "PS DCR": "Grp_3G Drop Call Rate - All Data services(%)",
+    "CS Traffic": "Grp_ 3G TRAFFIC – SPEECH(Erl)",
+    "PS Traffic": "Grp_3G&3G+ TOTAL DATA TRAFFIC VOLUME DL&UL(GB)",
+    "HSDPA THP": "Grp_3G HSDPA AVERAGE THROUGHPUT PER USER_Update"
+  }
+}
