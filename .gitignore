@@ -1,0 +1,21 @@
+﻿Data Input/
+Data input/
+Output/
+
+__pycache__/
+*.pyc
+scripts/smoke_result.txt
+scripts/smoke_hooks_result.txt
+scripts/smoke_hooks_log.txt
+scripts/codex_events.txt
+logs/informe-diario.md
+STOP
+state/usage.json
+state/pipeline.json
+state/guard_events.log
+logs/attempts/
+state/tasks.json
+state/current_task.json
+state/fake_prs.json
+~$*
+*.docx

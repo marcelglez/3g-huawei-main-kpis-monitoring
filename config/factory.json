@@ -1,0 +1,10 @@
+{
+  "verify": [
+    "python",
+    "-m",
+    "unittest",
+    "discover"
+  ],
+  "gates": "pr",
+  "base": "main"
+}

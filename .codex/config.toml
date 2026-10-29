@@ -1,0 +1,9 @@
+sandbox_mode = "workspace-write"
+
+[[hooks.PreToolUse]]
+matcher = "^(Bash|apply_patch)$"
+
+[[hooks.PreToolUse.hooks]]
+type = "command"
+command = "python \"E:\\Claude_Codex\\Nueva carpeta\\rf-factory\\hooks\\guard.py\" codex --root \"E:\\Claude_Codex\\3G Huawei Main KPIs Monitoring\""
+timeout = 15
